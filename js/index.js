@@ -61,7 +61,7 @@ var Footer = function (_React$Component2) {
 								"a",
 								{
 									className: "connect-list__link",
-									href: "https://ca.linkedin.com/in/firaselhamed",
+									href: "https://ca.linkedin.com/",
 									target: "newwindow"
 								},
 								React.createElement("i", { className: "zmdi zmdi-linkedin zmdi-hc-5x" })
@@ -74,7 +74,7 @@ var Footer = function (_React$Component2) {
 								"a",
 								{
 									className: "connect-list__link",
-									href: "https://github.com/Felhamed",
+									href: "https://github.com/",
 									target: "newwindow"
 								},
 								React.createElement("i", { className: "zmdi zmdi-github-alt zmdi-hc-5x" })
@@ -87,7 +87,7 @@ var Footer = function (_React$Component2) {
 								"a",
 								{
 									className: "connect-list__link",
-									href: "https://twitter.com/firaselh",
+									href: "https://twitter.com/",
 									target: "newwindow"
 								},
 								React.createElement("i", { className: "zmdi zmdi-twitter zmdi-hc-5x" })
